@@ -21,3 +21,10 @@ ValidationCurve
 ------
 This method plots a curve from the cross validation set.
 
+
+Below are the scripts provided by the course:
+> ex5.m
+> featureNormalization.m
+> fmincg.m
+> PlotFit.m
+> trainLinearReg.m
