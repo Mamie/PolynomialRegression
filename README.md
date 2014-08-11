@@ -1,6 +1,8 @@
 Polynomial regression
 ================
 
+This is the week 5 assignment of Coursera Machine Learning class. https://www.coursera.org/course/ml
+
 Summary
 --------
 This program predicts the amount of water flowing out of a dam from the water level in a certain resevoir. A predict function is constructed using regularized polynomial regression after training by ex5data1.mat. Two separate sets of data were reserved for test and cross-validation sets. These sets, along with the training set was used to plot the learning curve to study the properties of bias and variance.
