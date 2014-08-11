@@ -24,7 +24,7 @@ This method plots a curve from the cross validation set.
 
 Below are the scripts provided by the course:
 > ex5.m <br\ >
-> featureNormalization.m
-> fmincg.m
-> PlotFit.m
-> trainLinearReg.m
+> featureNormalization.m <br\ >
+> fmincg.m <br\ >
+> PlotFit.m <br\ >
+> trainLinearReg.m <br\ >
