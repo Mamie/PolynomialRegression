@@ -1,7 +1,7 @@
 Polynomial regression
 ================
 
-This is the week 5 assignment of Coursera Machine Learning class. https://www.coursera.org/course/ml
+This is the week 5 assignment of [Coursera Machine Learning class] (https://www.coursera.org/course/ml).
 
 Summary
 --------
